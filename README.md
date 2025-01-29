@@ -70,10 +70,14 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/avishek-pradhan-83073a313" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avishek-pradhan-83073a313" height="30" width="40" />
+  <a href="https://linkedin.com/in/avishek-pradhan-83073a313" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="50" />
   </a>
-  <a href="https://instagram.com/avishekiapi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avishekiapi" height="30" width="40" />
+  <a href="https://instagram.com/avishekiapi" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="50" />
+  </a>
+  <a href="https://x.com/Avishekp18" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter/X" height="30" width="50" />
   </a>
 </p>
+
