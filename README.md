@@ -51,7 +51,10 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avishekp18&show_icons=true&locale=en&theme=dark" alt="avishekp18" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avishekp18&theme=dark" alt="avishekp18" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishekp18&theme=dark" alt="avishekp18" />
+</p>
+
 
 
 ---
