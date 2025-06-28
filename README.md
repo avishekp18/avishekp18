@@ -19,7 +19,7 @@
 - 👯 I’m looking to collaborate on **exciting frontend projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, and React**
 - 📫 How to reach me: **[avishekpradhan24@gmail.com](mailto:avishekpradhan24@gmail.com)**
-- 📄 Know about my experiences: [My Resume]([https://drive.google.com/file/d/1uRzBOj62cyUMvSr4tbKqaKOLI7_4oLzl/view?usp=sharing](https://drive.google.com/file/d/13mKu3Z7hjt5Gbg90ipr-7X9nqp7OhVdM/view?usp=sharing))
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/13mKu3Z7hjt5Gbg90ipr-7X9nqp7OhVdM/view?usp=drive_link)
 
 ---
 
