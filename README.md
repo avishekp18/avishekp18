@@ -1,138 +1,136 @@
-🌤️ Hi, I'm Avishek Pradhan
-A Passionate Frontend Developer from India
+<h1 align="center">🌤️ Hi, I'm Avishek Pradhan</h1>
+<h3 align="center">🚀 Frontend Developer | MCA Student | Open Source Enthusiast</h3>
 
-  <img src="https://komarev.com/ghpvc/?username=avishekp18&#x26;label=Profile%20Views&#x26;color=0e75b6&#x26;style=flat-square" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/avishekp18?label=Follow&#x26;style=social" alt="Follow on GitHub">
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=avishekp18">
+    <img src="https://komarev.com/ghpvc/?username=avishekp18&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/avishekp18?tab=followers">
+    <img src="https://img.shields.io/github/followers/avishekp18?label=Follow&style=social" alt="GitHub Followers"/>
+  </a>
+</p>
 
+---
 
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" alt="Coding Animation" width="300">
+## 👨‍💻 About Me  
+- 🌍 Based in **Bhubaneswar, Odisha, India**  
+- 📚 Pursuing **MCA @ Sri Sri University (CGPA: 8.9)**  
+- 💡 Passionate about **Frontend & Full-Stack Development**  
+- 🔭 Currently working on: **SkyTrack Web (React Weather App)**  
+- 🌱 Learning: **React Hooks | Tailwind CSS | Node.js**  
+- 🤝 Looking to collaborate on **Frontend projects & Open Source**  
+- 💬 Ask me about **React, JavaScript, Web Performance**  
+- 📫 Reach me: **avishekpradhan24@gmail.com**  
+- 🌐 Portfolio: [avishekpradhan.in](https://avishekpradhan.in)  
 
+---
 
-🚀 About Me
-I'm a full stack developer from India, passionate about crafting responsive, dynamic, and user-friendly web applications. My current focus is on building immersive experiences with React.js and integrating APIs, like in my SkyTrack Web project. I thrive on turning ideas into pixel-perfect interfaces and love collaborating on innovative projects.
+## 🛠️ Tech Stack  
 
-🔭 Currently working on: SkyTrack Web – A React-based weather app with real-time data and dynamic backgrounds.
-🌱 Learning: React Hooks, Tailwind CSS, and Node.js for full-stack development.
-👯 Looking to collaborate on: Frontend projects, open-source contributions, or hackathons.
-💬 Ask me about: HTML, CSS, JavaScript, React, or web performance.
-📫 Reach me: avishekpradhan24@gmail.com
-📄 Resume: View/Download
-⚡ Fun fact: I debug code faster than I can decide what to watch on Netflix!
+**Languages & Frameworks**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8)
 
+**Databases & Tools**  
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-ff7262?style=for-the-badge&logo=figma&logoColor=white)
 
-🛠 Skills & Tools
-Languages & Frameworks
+---
 
-  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" title="C++">
-  
-  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5">
-  
-  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3">
-  
-  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript">
-  
-  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" title="React">
-  
-  
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" title="Tailwind CSS">
-  
-  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" title="Node.js">
-  
+## 📂 Featured Projects  
 
-Tools & Platforms
+### 🌦️ SkyTrack Web  
+A dynamic React-based weather app with real-time data & animated UI.  
+**Tech:** React, JavaScript, Tailwind, OpenWeatherMap API  
+**Features:** Location search, 7-day forecast, SVG animations  
 
-  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git">
-  
-  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" title="Figma">
-  
-  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" title="MongoDB">
-  
+🔗 [Live Demo (Coming Soon)]()  
 
+---
 
-📈 Featured Projects
-🌦️ SkyTrack Web
-A dynamic weather app built with React, featuring real-time weather data and a responsive UI with animated backgrounds.
+### 🏥 MediCore  
+Hospital management system for tracking patient records & appointments.  
+**Tech:** JavaScript, HTML, CSS  
+**Features:** User authentication, data visualization  
 
-Tech: React, JavaScript, Tailwind CSS, OpenWeatherMap API
-Features: Location search, 7-day forecast, dynamic SVG animations
-Live Demo: Coming Soon
+---
 
-<img src="https://via.placeholder.com/300x150?text=SkyTrack+Preview" alt="SkyTrack Preview" width="200">
+### 💸 CurrencyExchanger  
+A clean & responsive real-time currency conversion app.  
+**Tech:** JavaScript, HTML, CSS  
+**Features:** Live exchange rates, multi-currency support  
 
+---
 
-🏥 MediCore
-A hospital management system for tracking patient records and appointments.
+### 🎓 Campus360  
+Student management platform with attendance & grades dashboard.  
+**Tech:** Java EE (Servlets, JSP), HTML, CSS, JS, MySQL  
+**Features:** Test cases, optimized DB queries, data export  
 
-Tech: JavaScript, HTML, CSS
-Features: User authentication, data visualization
+---
 
-<img src="https://via.placeholder.com/300x150?text=MediCore+Preview" alt="MediCore Preview" width="200">
+## 🎓 Education  
 
+- **MCA (2023–2025)** – Sri Sri University, Odisha – *CGPA: 8.90*  
+- **B.Sc. in Physics (2020–2023)** – Utkal University – *CGPA: 7.77*  
 
-💸 CurrencyExchanger
-A real-time currency conversion tool with a clean interface.
+---
 
-Tech: JavaScript, HTML, CSS
-Features: Live exchange rates, multi-currency support
+## 💼 Internships  
 
-<img src="https://via.placeholder.com/300x150?text=CurrencyExchanger+Preview" alt="CurrencyExchanger Preview" width="200">
+**IBM & CSRBOX – Web Development Intern** *(June–Aug 2024)*  
+- Practiced functional testing & cloud basics.  
+- Built simple web apps, debugged errors, explored agile workflows.  
 
+---
 
-🎓 Campus360
-A student management platform for attendance and grades.
+## 🏆 Certifications & Achievements  
 
-Tech: HTML, CSS, JavaScript
-Features: Dashboard, data export
+- SAP ABAP – Cloud Developer (2024)  
+- IBM & CSRBOX – Web Development (2024)  
+- 100+ contributions in 2024  
+- Built **SkyTrack Web** with real-time API integration  
+- Contributed to open-source frontend projects  
 
-<img src="https://via.placeholder.com/300x150?text=Campus360+Preview" alt="Campus360 Preview" width="200">
+---
 
+## 📊 GitHub Stats  
 
-👉 Explore all my repositories for more projects!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avishekp18&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avishekp18&layout=compact&theme=radical&hide_border=true" height="160"/>
+</p>
 
-📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishekp18&theme=radical&hide_border=true" height="160"/>
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=avishekp18&#x26;show_icons=true&#x26;theme=radical&#x26;hide_border=true" alt="GitHub Stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avishekp18&#x26;layout=compact&#x26;theme=radical&#x26;hide_border=true" alt="Top Languages" width="300">
+---
 
+## 🌐 Connect with Me  
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishekp18&#x26;theme=radical&#x26;hide_border=true" alt="GitHub Streak" width="400">
+<p align="center">
+  <a href="https://linkedin.com/in/avishekp18"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://twitter.com/avishekp18"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="https://instagram.com/avishekp18"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="mailto:avishekpradhan24@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+</p>
 
+---
 
-🏆 Achievements
+<p align="center">
+  <img src="https://raw.githubusercontent.com/avishekp18/avishekp18/output/snake.svg" alt="Snake animation"/>
+</p>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=avishekp18&#x26;theme=radical&#x26;no-frame=true&#x26;column=4" alt="GitHub Trophies">
-
-
-🥇 100+ contributions in 2024
-🌟 Built SkyTrack Web with real-time API integration
-🤝 Contributed to open-source frontend projects
-🎯 Completed 5+ personal projects in React and JavaScript
-
-
-🌐 Connect with Me
-
-  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
-  
-  
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40">
-  
-  
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter/X" width="40" height="40">
-  
-
-
-
-  <img src="https://raw.githubusercontent.com/avishekp18/avishekp18/output/snake.svg" alt="Snake Animation" width="600">
-
-
-  Thanks for stopping by! Let's create something extraordinary together. 🚀
+✨ Thanks for visiting! Let's create something extraordinary together 🚀
